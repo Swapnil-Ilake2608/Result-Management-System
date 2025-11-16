@@ -2,10 +2,13 @@ Result Management System:-
 A Python Tkinter-based GUI application to add, update, delete, and search student results.
 Grades are calculated automatically based on marks.
 
-✅ Features
+✅ Features :-
 Add student record
+
 Update marks
+
 Delete record
+
 Search student by Roll No
 Auto-grade calculation (A/B/C/F)
 MySQL database integration
